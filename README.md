@@ -10,4 +10,4 @@ Parallax backgrounds create a sense of depth and immersion by moving different l
 - Customizable layers and speeds
 
 ## Showcase
-![Demo](https://cloud-kp35yo8mm-hack-club-bot.vercel.app/0parallax-forest-animation.gif)
+![Demo](https://cloud-bybtibk02-hack-club-bot.vercel.app/0parallax-img.png)
